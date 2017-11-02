@@ -5,8 +5,8 @@ JSdoc in atom shortcut
 
 
 LOCAL ENVS
-process.env.DATABASE_URL = 'mysql://root:root@localhost:3306/archpim';
-process.env.REDIS_URL = 'redis://localhost:6379';
+> process.env.DATABASE_URL = 'mysql://root:root@localhost:3306/archpim';
+> process.env.REDIS_URL = 'redis://localhost:6379';
 
 Edit host 
 > cd /etc/hosts
