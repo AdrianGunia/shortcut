@@ -1,4 +1,12 @@
 # Structured documents
+~~~
+setxkbmap pl
+~~~
+
+~~~
+locale -a
+~~~
+
 
 Kill port
 >lsof -i:1337
