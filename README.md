@@ -1,7 +1,7 @@
 # Structured documents
 
 ~~~
-git revert <id>
+git reset --hard <id>
 ~~~
 	
 ~~~
