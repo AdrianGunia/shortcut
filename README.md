@@ -1,4 +1,9 @@
 # Structured documents
+
+~~~
+git revert <id>
+~~~
+	
 ~~~
 setxkbmap pl
 ~~~
