@@ -3,7 +3,9 @@
 ~~~
 git reset --hard <id>
 ~~~
-	
+~~~
+SET GLOBAL sql_mode = '';
+~~~
 ~~~
 setxkbmap pl
 ~~~
