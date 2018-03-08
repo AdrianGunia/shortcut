@@ -67,4 +67,17 @@ process.on('unhandledRejection', (reason, p) => {
 	// application specific logging, throwing an error, or other logic here
 });
 ~~~
+Uruchomienie kibany
+
+~~~
+sudo service kibana start 
+~~~
+
+Uruchomienie elasticSearch
+
+~~~
+sudo service elasticSearch start 
+~~~
+
+
 
