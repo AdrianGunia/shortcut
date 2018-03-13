@@ -80,4 +80,7 @@ sudo service elasticSearch start
 ~~~
 
 
-
+Run jMeter
+~~~
+apache-jmeter-3.0/bin/./jmeter
+~~~
